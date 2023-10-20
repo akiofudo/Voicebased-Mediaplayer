@@ -11,7 +11,7 @@ Once the application is launched, users can interact with the media player using
 ## Contributing
 Contributions to the project are encouraged. If you have suggestions for new features, bug fixes, or enhancements, please feel free to open an issue or submit a pull request.
 
-##voice commands
+## voice commands
 index file:
 1-open media player local disc(for opening the media player)
 2-open voice recorder(to open the voice recorder)
@@ -29,7 +29,7 @@ mediaplayer file:
 11-exit media player(to go to the index file)
 12-video full screen(to make the video full screen)
 13-video exit full screen(to make the video exit from the full screen)
-##Note:
+## Note:
 -For now its support mp4 and mp3 format
 -voice recorder works will work with events not with voice command
 -if the meadiaplayer voice command recognition is working fine but the it not changing means just press enter or any other key then say again the voice command
